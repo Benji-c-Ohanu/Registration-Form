@@ -16,4 +16,4 @@ LAUNCH
 
 4. Run webpage by clicking on mozilla firfox or any other browser installed on your system.
 
-screenshots/Screenshot_2020-01-24 Log In.png
+
