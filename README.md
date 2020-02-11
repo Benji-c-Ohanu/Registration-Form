@@ -14,7 +14,7 @@ LAUNCH
 
 3. Open the extracted file and right-click on the file index.html select the option open with
 
-4. Run webpage by clicking on mozilla firfox or any other browser installed on your system.
+4. Run webpage by clicking on mozilla firefox or any other browser installed on your system.
 
 
 ![Screenshot_2020-01-24 Log In](https://user-images.githubusercontent.com/59982887/73095363-b812eb00-3ee2-11ea-942b-3b067a7fef73.png)
